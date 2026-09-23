@@ -38,6 +38,8 @@ Users can generate, edit, preview, modify, and deploy websites without writing e
 <p align="center">
   ▶️ <b><a href="https://youtu.be/YYGx_sDDXiE">Watch AI Code Generator Demo on YouTube</a></b>
 </p>
+> Click the thumbnail above to watch the full demo on YouTube. -->
+
 ---
 
 ##  Project Architecture   (Click images)
