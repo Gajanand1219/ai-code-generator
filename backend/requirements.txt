@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+openai
+pyautogen
+
+python-dotenv
+httpx
+mistralai==1.9.11

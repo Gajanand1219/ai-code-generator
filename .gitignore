@@ -1,0 +1,47 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# Node / Vite
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Runtime artifacts
+*.db
+mlruns/
+backend/mlruns/
+frontend/mlflow.db
+backend/mlflow.db
+*.log
+
+# Archives and generated documents
+*.zip
+*.tar.gz
+*.whl
+*.pdf
+tmp/
+output/
+
+# Local duplicate/archive copies and one-off files
+SQL-AI-Agent-Pradip-Tivhale/
+sqlas-package/
+TestPyPI-Recovery-Codes-*.txt
+Case Study for Lateral Hiring*.docx
+frontend/=3.1.0
+
+# OS/editor
+.DS_Store
