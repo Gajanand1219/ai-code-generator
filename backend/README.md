@@ -25,22 +25,25 @@ Users can generate, edit, preview, modify, and deploy websites without writing e
 **Author:** [Gajanan Deshmukh](https://github.com/Gajanand1219)
 
 ---
+---
 
 ## Demo
 
 ### Trailer
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/ac3a4220-288c-4f6b-a982-ba9e05d713a8" controls width="100%"></video>
-</p>
-
-<!-- ### Full Demo
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=c5lHsIUL8rM" target="_blank">
-    <img src="https://img.youtube.com/vi/c5lHsIUL8rM/maxresdefault.jpg" alt="SQL AI Agent Full Demo" width="100%"/>
+  <a href="https://youtu.be/YYGx_sDDXiE">
+    <img src="https://i.ibb.co/VcwDBLdg/Screenshot-2026-09-22-235305.png" 
+         alt="AI Code Generator Demo" 
+         width="800">
   </a>
 </p>
+
+<p align="center">
+  ▶️ <b><a href="https://youtu.be/YYGx_sDDXiE">Watch AI Code Generator Demo on YouTube</a></b>
+</p>
+
+
 
 > Click the thumbnail above to watch the full demo on YouTube. -->
 
@@ -105,8 +108,8 @@ Follow these steps to get the project running locally:
 ### 1. Clone
 
 ```bash
-# git clone https://github.com/thepradip/SQL-AI-Agent.git
-cd code_assicent
+https://github.com/Gajanand1219/ai-code-generator.git
+cd ai-code-generator
 ``` 
 
 ### 2. Backend Setup (Python)
