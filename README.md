@@ -28,10 +28,16 @@ Users can generate, edit, preview, modify, and deploy websites without writing e
 ### Trailer
 
 <p align="center">
-
-<video controls src="code_generator.mp4" title="Title"></video>
+  <a href="https://youtu.be/YYGx_sDDXiE">
+    <img src="https://i.ibb.co/VcwDBLdg/Screenshot-2026-09-22-235305.png" 
+         alt="AI Code Generator Demo" 
+         width="800">
+  </a>
 </p>
 
+<p align="center">
+  ▶️ <b><a href="https://youtu.be/YYGx_sDDXiE">Watch AI Code Generator Demo on YouTube</a></b>
+</p>
 ---
 
 ##  Project Architecture   (Click images)
