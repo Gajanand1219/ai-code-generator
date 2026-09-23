@@ -31,6 +31,25 @@ The AI generates the website code, which can then be edited and previewed direct
 ![alt text](Project_design.png)
 
 
+---
+
+## Demo
+
+### Trailer
+
+<p align="center">
+  <a href="https://youtu.be/YYGx_sDDXiE">
+    <img src="https://i.ibb.co/VcwDBLdg/Screenshot-2026-09-22-235305.png" 
+         alt="AI Code Generator Demo" 
+         width="800">
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <b><a href="https://youtu.be/YYGx_sDDXiE">Watch AI Code Generator Demo on YouTube</a></b>
+</p>
+
+---
 ### ✨ Key Features
 
 -  **AI-Powered Website Generation**: Create modern websites and components using natural language prompts.
@@ -169,8 +188,8 @@ Follow these steps to get the project running locally:
 ### 1. Clone
 
 ```bash
-# git clone https://github.com/thepradip/SQL-AI-Agent.git
-cd code_assicent
+https://github.com/Gajanand1219/ai-code-generator.git
+cd ai-code-generator
 ``` 
 
 ### 2. Backend Setup (Python)
