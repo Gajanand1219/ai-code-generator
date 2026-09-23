@@ -135,30 +135,30 @@ cd ai-code-generator
     ```
     # Groq (only used if LLM_PROVIDER=groq)
 
-# This is for backup api key 
-# GROQ_API_KEY=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     # not used 
-# GROQ_API_KEY=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     # not used 
-# GROQ_API_KEY=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     # not used 
-# GROQ_API_KEY=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     # not used 
+    # This is for backup api key 
+    # GROQ_API_KEY=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     # not used 
+    # GROQ_API_KEY=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     # not used 
+    # GROQ_API_KEY=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     # not used 
+    # GROQ_API_KEY=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     # not used 
 
 
-GROQ_API_KEY=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 
-GROQ_BASE_URL=https://api.groq.com/openai/v1
-GROQ_MODEL=openai/gpt-oss-120b
-
-
-# this is back up ai keys
-# MISTRAL_API_KEY=X7M8pOI24SSUWYK6i5APfY9mtwmKbGTO 
-# MISTRAL_API_KEY=T4zgzhnXTXcw4rrQoPZvIQ0BXSsVYQPo  
-# MISTRAL_API_KEY=7KVxsq2twnj8oEIw8xOhXZgoZ1YhMugY  
-
-MISTRAL_API_KEY=tiENEyq85hQeLjjheCcSdmmPOEzyye2U   
-MISTRAL_VISION_MODEL=ministral-14b-2512
-
-
-API_PORT=8000
-
-VERCEL_TOKEN=vcp_0ryaZ4r0MSv5ByS6stlnLeMda6NPBJDeMR9UoLu4b4Ni8O5tkf4THCE3
+    GROQ_API_KEY=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 
+    GROQ_BASE_URL=https://api.groq.com/openai/v1
+    GROQ_MODEL=openai/gpt-oss-120b
+    
+    
+    # this is back up ai keys
+    # MISTRAL_API_KEY=X7M8pOI24SSUWYK6i5APfY9mtwmKbGTO 
+    # MISTRAL_API_KEY=T4zgzhnXTXcw4rrQoPZvIQ0BXSsVYQPo  
+    # MISTRAL_API_KEY=7KVxsq2twnj8oEIw8xOhXZgoZ1YhMugY  
+    
+    MISTRAL_API_KEY=tiENEyq85hQeLjjheCcSdmmPOEzyye2U   
+    MISTRAL_VISION_MODEL=ministral-14b-2512
+    
+    
+    API_PORT=8000
+    
+    VERCEL_TOKEN=vcp_0ryaZ4r0MSv5ByS6stlnLeMda6NPBJDeMR9UoLu4b4Ni8O5tkf4THCE3
 
     ```
  (*All ready Api Key Set*)   
