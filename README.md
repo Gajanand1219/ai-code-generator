@@ -183,12 +183,12 @@ cd ai-code-generator
     cd frontend/my-app
     ```
 
-2.  **# Install dependencies for the first time**:  
+2. **Install dependencies for the first time. This may take some time to install:**
     ```powershell
     npm install
     ```
 
-3.  **Start the development server**:
+4.  **Start the development server**:
     ```powershell
     npm start
     ```
