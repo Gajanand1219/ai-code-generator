@@ -76,11 +76,10 @@ Users can generate, edit, preview, modify, and deploy websites without writing e
 ## 📊 Project Presentation
 
 <p align="center">
-  <a href="./AI_Code_Generator.pptx">
-    <b>📥 View / Download Project Presentation (PPT)</b>
+  <a href="https://github.com/Gajanand1219/ai-code-generator/raw/refs/heads/main/AI_Code_Generator.pptx">
+    <img src="https://img.shields.io/badge/Download-Project%20PPT-blue?style=for-the-badge" alt="Download PPT">
   </a>
 </p>
-
 ---
 
 
