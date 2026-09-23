@@ -110,7 +110,7 @@ Follow these steps to get the project running locally:
 ### 1. Clone
 
 ```bash
-https://github.com/Gajanand1219/ai-code-generator.git
+git clone https://github.com/Gajanand1219/ai-code-generator.git
 cd ai-code-generator
 ``` 
 
