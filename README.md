@@ -77,12 +77,6 @@ Users can generate, edit, preview, modify, and deploy websites without writing e
 
 <p align="center">
   <a href="./AI_Code_Generator.pptx">
-    <img src="./assets/code-gen-logo.png" width="180" alt="Project Presentation">
-  </a>
-</p>
-
-<p align="center">
-  <a href="./AI_Code_Generator.pptx">
     <b>📥 View / Download Project Presentation (PPT)</b>
   </a>
 </p>
